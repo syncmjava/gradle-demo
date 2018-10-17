@@ -2,7 +2,8 @@
 .settings
 .classpath
 .project
-/bin
-/build
+build
+target
+bin
 .idea
 *.iml
